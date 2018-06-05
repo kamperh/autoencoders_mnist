@@ -1,0 +1,7 @@
+*
+!*/
+!.*
+!*.py
+!*.ipynb
+!*.md
+*-checkpoint.ipynb
